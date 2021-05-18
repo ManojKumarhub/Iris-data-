@@ -1,33 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# The Sparks Foundation - Data Science & Business Analytics Internship
+## Task Prediction using Unsupervised ML 
 # 
-# (GRIP APR21 The Spark Foundation)
-# 
-# 
-# Task2- Prediction using Unsupervised ML 
-# 
-# (From the given "Iris" dataset, predict the optimum numbers of clusters and represent it visually) 
-# 
-# 
-# Step:-
-#     Load the data
-#     
-#     Data Preperation 
-#     
-#     Visualizing Uncluster data
-#     
-#     Determine the optimum number of cluster
-#     
-#     Apply ML model(KNeighborsClassifier)
-#     
-#     Visualizing cluster data with centroid
-#       
-# 
-# Notebook Author - Manoj Kumar 
-# 
-
 # In[3]:
 
 
